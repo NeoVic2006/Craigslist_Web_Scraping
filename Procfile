@@ -1,0 +1,1 @@
+web: gunicorn Craigslist_Web_Scraping.wsgi --log-file -
